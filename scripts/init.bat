@@ -1,0 +1,1 @@
+cmake -S . -B build -DCMAKE_TOOLCHAIN_FILE=C:/Microsoft/vcpkg/scripts/buildsystems/vcpkg.cmake
